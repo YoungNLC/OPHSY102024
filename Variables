@@ -1,0 +1,17 @@
+email = "Young_NLC"
+name = "NLC"
+console = "playstation5"
+age = 10000
+
+
+#there are 2 datas above
+#one is called "email"
+#one is called "name"
+#both contain data
+
+print(email)
+print(name)
+print(console)
+print(age)
+#print is a function
+#it displays text on a screen
