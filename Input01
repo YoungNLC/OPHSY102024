@@ -1,0 +1,14 @@
+name = str(input("Enter name:"))
+print(name)
+
+age = int(input("Enter age:"))
+print(age)
+
+bestColour = str(input("Fav colour"))
+print(bestColour)
+
+bestConsole = str(input("Fav console"))
+print(bestConsole)
+
+dream = str(input("Fav dream"))
+print(dream)
