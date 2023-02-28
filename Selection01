@@ -1,0 +1,14 @@
+#Selection
+
+Team1Points = 2000
+Team2Points = -1
+Team3Points = -10000
+
+if Team1Points > 200:
+  print("Team 1 has omg",Team1Points)
+
+if Team2Points < 0:
+  print("Team 2 has NO WAY", Team2Points)
+
+if Team3Points < -20:
+  print("Team 3 have a ver poor score of",Team3Points
