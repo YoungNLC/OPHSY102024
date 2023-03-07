@@ -1,0 +1,17 @@
+print("WELCOME TO MAD-Lib")
+print("Please answer the following questions")
+print("")
+
+adjective1 = input("Enter an adjective e.gSmall/Broken/Smelly >>> ")
+nationality1 = input("Enter a nationality >>> ")
+person1 = input("Enter a person >>> ")
+noun1 = input("Enter a person place or thing >>> ")
+favcolour1 = input("Enter favcolour >>> ")
+favfood1 = input("Enter fav food >>> ")
+adjective2 = input("Enter another adjective >>> ")
+noun2 = input("Enter another person place or thing >>> ")
+
+print("")
+print("Here is your creation")
+print("")
+print("To eat metal and crap thunder",adjective1,"Has to be able to eat japan", nationality1 "Also Syria is starting to bomb people sadly, its very tragic")
