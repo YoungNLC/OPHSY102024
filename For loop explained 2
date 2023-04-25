@@ -1,0 +1,3 @@
+x = int(input("Enter num"))
+for holdingNumbersFromRange in range(0, 20, x):
+  print("This for loop will display", holdingNumbersFromRange)
