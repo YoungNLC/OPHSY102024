@@ -1,0 +1,9 @@
+import random
+guess = str(input("pick a letter, h or t"))
+list = ["h","t"]
+selected = random.choice(list)
+print(selected)
+if guess == list:
+  print("well done you won")
+else:
+  print("too bad you lost")
