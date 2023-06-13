@@ -1,0 +1,9 @@
+cars = [] 
+addName = True 
+while addName == True:
+  newCar = str(input("Input a car brand or press x to exit"))
+  if newCar == "x":
+   print("exiting...")
+else:
+  cars.append(newCar)
+print("in the list =",cars)
